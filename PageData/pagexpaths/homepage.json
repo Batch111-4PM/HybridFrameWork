@@ -1,0 +1,9 @@
+{
+    "HomeLogo" : "//img[@height='67']",
+    "EmpLogo" : "//img[@height='180']",
+    "Htext" : "//font[@face='tahoma']",
+    "XUN" : "//input[@type='text']",
+    "XPWD" : "//input[@type='password']",
+    "XSUB" : "//input[@type='Submit']"
+}
+

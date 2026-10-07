@@ -1,0 +1,6 @@
+{
+    "url" : "http://127.0.0.1/orangehrm-2.5.0.2/login.php",
+    "htitle" : "OrangeHRM - New Level of HR Management",
+    "username" : "selenium",
+    "pasword" : "cypress"
+}

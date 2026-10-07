@@ -1,0 +1,5 @@
+{
+    "PIMLOGO" : "div#companyLogoHeader",
+    "XPIM" : "li#pim",
+    "XADD" : "//span[text()='Add Employee']"
+}

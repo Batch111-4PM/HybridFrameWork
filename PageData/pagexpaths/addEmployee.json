@@ -1,0 +1,11 @@
+{
+    "XADDIMAGE" : "div#rightHeaderImage",
+    "XFRAME" : "iframe#rightMenu",
+    "XID" : "input#txtEmployeeId",
+    "XFIRST" : "input#txtEmpFirstName",
+    "XLAST" : "input#txtEmpLastName",
+    "XMID" : "input#txtEmpMiddleName",
+    "XNICK" : "input#txtEmpNickName",
+    "XPHOTO" : "input#photofile",
+    "XSAVE" : "input#btnEdit"
+}
